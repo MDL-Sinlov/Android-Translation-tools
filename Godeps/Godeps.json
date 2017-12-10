@@ -1,0 +1,51 @@
+{
+	"ImportPath": "github.com/MDL-Sinlov/Android-Translation-tools",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Bowery/prompt",
+			"Rev": "d43c2707a6c5a152a344c64bb4fed657e2908a81"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "v0.0.3-64-gf3b1a1b",
+			"Rev": "f3b1a1b3bd4726161e1200863d278df7da5e66ff"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.6-6-g6c903ff",
+			"Rev": "6c903ff4aa50920ca86087a280590b36b3152b9c"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8"
+		},
+		{
+			"ImportPath": "github.com/mkideal/cli",
+			"Comment": "v0.0.1-48-g72ac83b",
+			"Rev": "72ac83b12b73f6e83ee1aee30310c264c46f9270"
+		},
+		{
+			"ImportPath": "github.com/mkideal/cli/ext",
+			"Comment": "v0.0.1-48-g72ac83b",
+			"Rev": "72ac83b12b73f6e83ee1aee30310c264c46f9270"
+		},
+		{
+			"ImportPath": "github.com/mkideal/pkg/debug",
+			"Rev": "ae16843bed3e97c953123a28c0ed1631c7456428"
+		},
+		{
+			"ImportPath": "github.com/mkideal/pkg/expr",
+			"Rev": "ae16843bed3e97c953123a28c0ed1631c7456428"
+		},
+		{
+			"ImportPath": "github.com/mkideal/pkg/osutil/pid",
+			"Rev": "ae16843bed3e97c953123a28c0ed1631c7456428"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "8f0908ab3b2457e2e15403d3697c9ef5cb4b57a9"
+		}
+	]
+}
